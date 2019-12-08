@@ -1,3 +1,9 @@
+On one rainy Saturday evening, I decided to code and publish my journal using React Library.
+
+## Useful Links
+1. https://www.codecademy.com/articles/how-to-create-a-react-app
+2. https://reactjs.org/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
