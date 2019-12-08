@@ -1,6 +1,9 @@
-On one rainy Saturday evening, I decided to code and publish my journal using React Library.
+        A Rainy Day Diary
 
-## Useful Links
+On one rainy Saturday evening, I decided to publish my journal in GitHub. I don't know, I've been looking for positions in Web Development and getting interviews so I thought it would be a good time to give myself a refresher. Plus, it would be something to keep myself up with the evergrowing popularity of the React Library created by Facebook. 
+
+###### Useful Links
+
 1. https://www.codecademy.com/articles/how-to-create-a-react-app
 2. https://reactjs.org/
 
