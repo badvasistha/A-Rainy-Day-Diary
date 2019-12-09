@@ -1,11 +1,21 @@
-        A Rainy Day Diary
+A Rainy Day Diary
 
 On one rainy Saturday evening, I decided to publish my journal in GitHub. I don't know, I've been looking for positions in Web Development and getting interviews so I thought it would be a good time to give myself a refresher. Plus, it would be something to keep myself up with the evergrowing popularity of the React Library created by Facebook. 
 
-###### Useful Links
+###### "Normally you start out with React's JSX syntax for rendering something to the browser when learning about React. Basically JSX mixes HTML with JavaScript to get the best of both worlds."
 
-1. https://www.codecademy.com/articles/how-to-create-a-react-app
-2. https://reactjs.org/
+###### "You can pass data in React by defining custom HTML attributes to which you assign your data with JSX syntax. So don't forget the curly braces."
+###### "React elements. Typically created via JSX. For example, `<div />` and `<MyComponent />` are React elements that instruct React to render a DOM node, or another user-defined component, respectively."
+
+###### "React props destructuring:
+
+###### const Greeting = ({ greeting }) => `<h1>`{greeting}`</h1>`; (For more: refer to link 3)
+
+###### Useful Links
+##### 1. https://www.codecademy.com/articles/how-to-create-a-react-app
+##### 2. https://reactjs.org/
+##### 3. https://www.robinwieruch.de/react-pass-props-to-component
+##### 4 - https://reactjs.org/docs/react-component.html#componentdidmount
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

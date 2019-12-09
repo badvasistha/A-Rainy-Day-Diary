@@ -3,6 +3,7 @@ import "./App.css";
 import { Component } from "react";
 
 // rcc[tab] gives the class component
+// Also look for rncs and rconst for comparision
 // Simple components can be expressed as class or function.
 // And either work with the export to index.js.
 
